@@ -1,5 +1,9 @@
 # 💫 About Me:
- I’m currently working on a mobile bounty app for airsoft events with flutter that uses push notifications.<br> I’m currently learning flutter and general cyber security and data management.<br> Fun fact I still dont know how i got to this point in life i might say its luck.<br>
+I'm deeply engaged in cybersecurity studies at AP, exploring the intricacies of safeguarding digital assets against evolving threats. Concurrently, I'm passionately developing a mobile bounty app for airsoft events using Flutter and push notifications, merging my tech interests with practical applications.
+
+My journey involves mastering Flutter development while deepening my grasp of cybersecurity and data management. Each day presents fresh challenges, propelling me forward with a mix of determination and enthusiasm.
+
+Reflecting on how I arrived here, I recognize the role of luck alongside my relentless pursuit of knowledge and growth.<br>
 
 
 ## 🌐 Socials:
